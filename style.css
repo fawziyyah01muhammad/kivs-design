@@ -11,7 +11,7 @@ img{
     margin-top:100px;
 }
 h1{
-	color:hsl(150, 100%, 66%);
+	color:red;
 	font-size:80px;
 	letter-spacing: 12px;
 	font-style: italic;
@@ -29,7 +29,7 @@ p{
 	font-weight: 500;
 }
 .p2{
-	color:hsl(150, 100%, 66%);
+	color:red;
 }
 .contact{
 	font-size: 15px;
